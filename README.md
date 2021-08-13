@@ -1,4 +1,4 @@
-#COMP3160 ASS 2
+# COMP3160 ASS 2
 
 The python file is the code
 
